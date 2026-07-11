@@ -1,4 +1,4 @@
-# Smart Meal Planner
+# Cooking List App
 
 A simple React + Tailwind single-page app that uses the Gemini API to generate a personalized meal plan, grocery list, substitutions, and budget status.
 

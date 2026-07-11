@@ -68,7 +68,7 @@ function App() {
           <div className="flex flex-col gap-3 md:flex-row md:items-end md:justify-between">
             <div>
               <p className="text-sm font-semibold uppercase tracking-[0.35em] text-emerald-300">AI Meal Planner</p>
-              <h1 className="text-3xl font-semibold sm:text-4xl">Smart Meal Planner</h1>
+              <h1 className="text-3xl font-semibold sm:text-4xl">Cooking List App</h1>
               <p className="mt-2 max-w-2xl text-sm text-slate-300 sm:text-base">
                 Create a personalized day of meals with a grocery list and smart substitutions in seconds.
               </p>
